@@ -3,7 +3,7 @@
 ## Metadata
 
 - **Owner:** Workshop application team
-- **Status:** Draft
+- **Status:** Approved
 - **Source root:** `legacy-src/dotnet-bookcatalog/shared-legacy-app`
 - **Related issue:** Not created
 
@@ -196,8 +196,8 @@ Stop and request human guidance if:
 
 ### Human approval
 
-- [ ] I reviewed the evidence, unresolved questions, allowed paths, acceptance
+- [x] I reviewed the evidence, unresolved questions, allowed paths, acceptance
       criteria, validation command, exclusions, risks, and stop conditions.
-- **Reviewer:** Not recorded
-- **Approval date:** Not recorded
-- **Approved specification commit:** Not recorded
+- **Reviewer:** Workshop participant
+- **Approval date:** 2026-11-23
+- **Approved specification commit:** ff02f8d5fd9a765efea3ffd957e3127a27b9f2c0
