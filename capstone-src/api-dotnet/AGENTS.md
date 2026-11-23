@@ -9,6 +9,8 @@ nearest local guide; do not assume one file automatically overrides another.
 - `src/WorkItems.Api/` contains the .NET 10 minimal API, validation/CORS setup,
   domain model, and thread-safe in-memory repository.
 - `tests/WorkItems.Api.Tests/` contains the xUnit repository tests.
+- The repository's injectable `TimeProvider` test seam is in
+  `src/WorkItems.Api/InMemoryWorkItemRepository.cs`.
 - The shared API shape is owned by
   [`../contracts/openapi.yml`](../contracts/openapi.yml).
 
